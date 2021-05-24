@@ -1,0 +1,7 @@
+Observations:
+
+* If we use 4 level of quantization, in final output image we only have 4 level of gray.
+* Similarly, 8 level of quantization gives is output image with 8 level of gray.
+* We can see that as number of gray level increase the quality of image also increase.
+* Image quality with numbers of level of quantization.
+    - 256 level > 8 level > 4 level
